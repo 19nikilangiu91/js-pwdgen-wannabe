@@ -5,7 +5,7 @@
 
 // Variabili
 
-let nomeUtente 
+let nomeUtente, cognomeUtente
 
 // Chiedere all'utente il suo Nome.
 
@@ -15,7 +15,9 @@ console.log(nomeUtente);
 
 // Chiedere all'utente il suo Cognome.
 
+cognomeUtente = prompt("Inserisci il tuo cognome");
 
+console.log(cognomeUtente);
 
 // Chiedere all'utente il suo Colore preferito.
 
