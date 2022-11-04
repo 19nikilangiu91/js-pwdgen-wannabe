@@ -5,11 +5,16 @@
 
 // Variabili
 
+let nomeUtente 
 
 // Chiedere all'utente il suo Nome.
 
+nomeUtente = prompt("Inserisci il tuo nome");
+
+console.log(nomeUtente);
 
 // Chiedere all'utente il suo Cognome.
+
 
 
 // Chiedere all'utente il suo Colore preferito.
