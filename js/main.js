@@ -33,6 +33,8 @@ console.log(numero);
 
 // Output- sulla pagina dovrà apparire nomecognomecolorepreferito21.
 
+document.getElementById("title").innerHTML = `Avviso! la tua password generator: ${nomeUtente}${cognomeUtente}${colorePreferitoUtente}${numero} non è sicura.`
+
 
 
 
