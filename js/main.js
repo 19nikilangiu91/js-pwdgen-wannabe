@@ -1,7 +1,7 @@
 // DEBUG
 // alert('Hello World')
 
-
+const numero = 21;
 
 // Variabili
 
@@ -26,7 +26,10 @@ colorePreferitoUtente = prompt("Inserisci il tuo colore preferito");
 console.log(colorePreferitoUtente);
 
 // Inserire la costante con il numero 21 alla fine.
+ 
+numero 
 
+console.log(numero);
 
 // Output- sulla pagina dovrà apparire nomecognomecolorepreferito21.
 
